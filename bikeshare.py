@@ -476,7 +476,7 @@ def main():
 
         if restart.lower() != 'yes':
 
-            print("\nThank you, have a lovely day :)")
+            print("\nThank you, have a pleasant day :)")
 
             break
 
